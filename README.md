@@ -1,1 +1,1 @@
-# Amazon-Image-Web-Scraping
+# Amazon-Image-Web-Scraping-AUTOSCRAPER
